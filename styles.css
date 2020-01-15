@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
+
 body {
   background: url("https://raw.githubusercontent.com/jamienjoroge/site_Images/master/franki-chamaki-1K6IQsQbizI-unsplash.jpg");
   background-size: 1920px 850px;
@@ -22,7 +24,6 @@ p{font-weight:300;
   height:300px;
   text-align:center;
   margin:0;
-  
   
 }
 
